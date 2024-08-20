@@ -2,3 +2,9 @@
     color: orangered;
     background-color: yellow;
 }
+.center {
+    margin: auto;
+    width: 37%;
+    border: 27px solid rgb(0, 113, 128);
+    padding: 91px;
+  }
