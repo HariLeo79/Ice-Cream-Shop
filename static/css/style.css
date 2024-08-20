@@ -1,10 +1,14 @@
 .button{
-    color: orangered;
-    background-color: yellow;
+    transition-duration: 0.2s;
 }
 .center {
     margin: auto;
     width: 37%;
-    border: 27px solid rgb(0, 113, 128);
-    padding: 91px;
+    border: 22px solid rgb(0, 113, 128);
+    padding: 56px;
+  }
+
+.button:hover {
+    background-color: #ff6c85ba;
+    color: white;
   }
